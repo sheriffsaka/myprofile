@@ -1,3 +1,4 @@
+This Application is used to showcase my profile as well as my porfolio to my prospective clients and recruiters.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
